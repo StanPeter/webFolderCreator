@@ -2,6 +2,8 @@ This program was written to create a longer structure of folders.
 
 After launching the py file will create in the same directory another directory full of folders(full structure is in database.xlsx file)
 
+folder "expectedResult_Spain_" is the result of the code
+
 
 To start simply:
 
@@ -11,3 +13,5 @@ To start simply:
 in terminal
 
 3. launch web_creator.py (used python3)
+
+PS: Used python3
